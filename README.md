@@ -9,3 +9,4 @@
 feature-A
   - fix-B
   - hello master,I am fix-B
+  - feature-D
